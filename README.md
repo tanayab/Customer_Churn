@@ -40,7 +40,7 @@ Evaluation: Using metrics to assess model performance.
 Deployment (Optional): Strategies for integrating the model into business operations.
 
 ## Results
-The XGBoost model achieved an ROC-AUC score of [Insert Score] and an F1 score of [Insert Score], indicating a high level of predictive accuracy.
+The Random forest model without hyperparameter tuning gives the best result.There is a good balance between precision and recall(0.53 , 0.52 respectively). It has accuracy 0.92, indicating a high level of predictive accuracy.
 The model's insights helped in formulating retention strategies, effectively reducing churn rates.
 
 
@@ -58,7 +58,7 @@ Modeling: Logistic Regression, Decision Tree, Random Forest, AdaBoost, XGBoost
 Feature Engineering: PCA
 
 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check issues page.
+Contributions, issues, and feature requests are welcome!
 
 License
 Distributed under the MIT License. See LICENSE for more information.
