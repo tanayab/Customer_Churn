@@ -4,19 +4,19 @@
 This project focuses on building a predictive model to identify customers at risk of churning from a telecom service provider. By leveraging machine learning techniques, the goal is to enable proactive retention strategies, ultimately reducing churn rates and improving customer satisfaction.
 
 ## Table of Contents
-Overview
-Project Structure
-Domain Context
-Key Features
-Data Description
-Machine Learning Workflow
-Results
-Installation
-Usage
-Technologies Used
-Contributing
-License
-Domain Context
+- Overview
+- Project Structure
+- Domain Context
+- Key Features
+- Data Description
+- Machine Learning Workflow
+- Results
+- Usage
+- Technologies Used
+- Contributing
+- License
+
+### Domain Context
 The project is set in the telecommunications domain, focusing on understanding customer behavior and predicting churn. Customer churn is a critical challenge for telecom companies, where retaining existing customers is essential for maintaining a competitive edge.
 
 ## Key Features
@@ -44,7 +44,7 @@ The Random forest model without hyperparameter tuning gives the best result.Ther
 The model's insights helped in formulating retention strategies, effectively reducing churn rates.
 
 
-Usage
+## Usage
 Run the Jupyter notebook to execute the entire analysis and modeling workflow.
 Adjust the model parameters and configurations as needed.
 Explore the results and visualizations to understand churn patterns.
@@ -57,10 +57,10 @@ Libraries: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, SMOTE
 Modeling: Logistic Regression, Decision Tree, Random Forest, AdaBoost, XGBoost
 Feature Engineering: PCA
 
-Contributing
+## Contributing
 Contributions, issues, and feature requests are welcome!
 
-License
+## License
 Distributed under the MIT License. See LICENSE for more information.
 
 
